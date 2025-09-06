@@ -1,0 +1,45 @@
+plugins {
+    id "com.android.application"
+    // START: FlutterFire Configuration
+    id "com.google.gms.google-services"
+    // END: FlutterFire Configuration
+    id "org.jetbrains.kotlin.android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace "com.example.app"
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.app"
+        minSdkVersion flutter.minSdkVersion
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    // ✅ Fix: Java + Kotlin दोनों JVM 17 पर
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+}
+
+flutter {
+    source "../.."
+}
+
+dependencies {
+    // Kotlin stdlib अब auto-manage होती है
+}

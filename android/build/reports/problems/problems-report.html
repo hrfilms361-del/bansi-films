@@ -1,0 +1,46 @@
+/*
+ * This file shows the corrected syntax for the file_picker package's build script.
+ * You should not apply these changes manually. Instead, update the package
+ * by running `flutter pub upgrade file_picker`.
+ */
+
+group = 'com.mr.flutter.plugin.filepicker'
+version = '1.0'
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.3.1'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    // Corrected: Changed from 'compileSdkVersion 34'
+    compileSdk = 34
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        // Corrected: Changed from 'minSdkVersion 19'
+        minSdk = 19
+    }
+    
+    // Corrected: Changed from 'namespace "..."'
+    namespace = "com.mr.flutter.plugin.filepicker"
+}

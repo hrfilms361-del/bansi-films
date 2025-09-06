@@ -1,0 +1,19 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+    includeBuild("C:/flutter/packages/flutter_tools/gradle")
+}
+
+plugins {
+    id "com.android.application" version "8.3.2" apply false
+    // START: FlutterFire Configuration
+    id "com.google.gms.google-services" version "4.3.15" apply false
+    // END: FlutterFire Configuration
+    id "org.jetbrains.kotlin.android" version "1.9.23" apply false
+    id "dev.flutter.flutter-gradle-plugin" apply false
+}
+
+include(":app")

@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "284225972381",
+    "project_id": "bansifilms-a1ed5",
+    "storage_bucket": "bansifilms-a1ed5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284225972381:android:b7087365a26e4072a20c74",
+        "android_client_info": {
+          "package_name": "com.bansifilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccljreUpjMhqEbXuQzN_sgwCvDS05XhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284225972381-4t6vfvdcbq3qvk49lphql3mk8l6smdcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bansiFilmsFrontend"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284225972381:android:425820eaadc63bbaa20c74",
+        "android_client_info": {
+          "package_name": "com.bansifilms.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccljreUpjMhqEbXuQzN_sgwCvDS05XhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284225972381-4t6vfvdcbq3qvk49lphql3mk8l6smdcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bansiFilmsFrontend"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284225972381:android:ba0aad5658e67874a20c74",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccljreUpjMhqEbXuQzN_sgwCvDS05XhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284225972381-4t6vfvdcbq3qvk49lphql3mk8l6smdcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bansiFilmsFrontend"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284225972381:android:245f3064d4b659afa20c74",
+        "android_client_info": {
+          "package_name": "com.example.bansi_films_frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccljreUpjMhqEbXuQzN_sgwCvDS05XhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284225972381-4t6vfvdcbq3qvk49lphql3mk8l6smdcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bansiFilmsFrontend"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284225972381:android:c75a5b0203411318a20c74",
+        "android_client_info": {
+          "package_name": "com.vhr.bansifilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccljreUpjMhqEbXuQzN_sgwCvDS05XhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284225972381-jm1bg3hgadua7243baetfobcer3uofrm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284225972381-4t6vfvdcbq3qvk49lphql3mk8l6smdcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bansiFilmsFrontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
